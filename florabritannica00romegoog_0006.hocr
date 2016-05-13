@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florabritannica00romegoog_0006.png"; bbox 0 0 2950 4984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 63 1727 520 1992">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 63 1653 520 2082">
+     <span class='ocr_line' id='line_1_1' title="bbox 63 1727 520 1992; baseline 0.004 -68"><span class='ocrx_word' id='word_1_1' title='bbox 63 1727 520 1992; x_wconf 57' lang='grc' dir='ltr'><strong>ι,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 61 2211 2271 2584">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 61 2211 2271 2584">
+     <span class='ocr_line' id='line_1_2' title="bbox 61 2211 2271 2584; baseline 0.003 -215"><span class='ocrx_word' id='word_1_2' title='bbox 61 2211 71 2584; x_wconf 49' lang='lat' dir='ltr'><em>t</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 173 2320 176 2325; x_wconf 90' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 275 2247 910 2404; x_wconf 80' lang='lat' dir='ltr'><strong>FLORA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 997 2246 2271 2418; x_wconf 70' lang='lat' dir='ltr'><strong>BRITANNICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1027 2621 1521 2700">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1027 2621 1521 2700">
+     <span class='ocr_line' id='line_1_3' title="bbox 1027 2621 1521 2700; baseline 0.01 -7"><span class='ocrx_word' id='word_1_6' title='bbox 1027 2621 1355 2699; x_wconf 89' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1458 2627 1521 2700; x_wconf 86' lang='lat'><strong>1.-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
